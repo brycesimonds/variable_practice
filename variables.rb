@@ -13,3 +13,7 @@ pets_width_inches = 14.7
 is_cute = true
 is_heavy_chonker = true
 needs_more_food = false
+
+email = notpets@gmail.com
+pets_name = Willy
+pets_breed = yellow
